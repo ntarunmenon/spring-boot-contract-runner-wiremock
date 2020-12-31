@@ -1,0 +1,3 @@
+runner:
+  thirdparty:
+    api-end-point: http://doesnotexist.com/api/1/athlete/{id}

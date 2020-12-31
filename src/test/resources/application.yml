@@ -1,0 +1,8 @@
+runner:
+  thirdparty:
+    api-end-point: http://localhost:${wiremock.server.port}/api/1/athlete/{id}
+
+
+logging:
+  level:
+    ROOT: DEBUG

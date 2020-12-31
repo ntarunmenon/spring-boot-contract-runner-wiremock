@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/1/athlete/100"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "Athlete_200_Response.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
